@@ -21,3 +21,7 @@ order while accessing your application :
 ## Example of the application (for inspiration):
 
 ![Example of an application](./address-book-example.png)
+
+##  Some useful tips for testing without mocks
+
+![Simulator principles](./simulators-principles.png)
