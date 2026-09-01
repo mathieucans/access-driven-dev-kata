@@ -25,3 +25,13 @@ order while accessing your application :
 ##  Some useful tips for testing without mocks
 
 ![Simulator principles](./simulators-principles.png)
+
+## References
+
+ - prefer using get... instead of query... to have better feedback when control is not found ([see testing librairy queries](https://testing-library.com/docs/queries/about/))
+ - [How to properly handle inline error messages while the user is typing (ARIA)?](https://stackoverflow.com/questions/71615554/how-to-properly-handle-inline-error-messages-while-the-user-is-typing-aria)
+
+## Some tips for mac-OS users
+
+ - shortcut to activate voice over : `cmd + F5`
+ - to interact with dialog, use `ctrl + option + arrow left/right` to navigate through controls and `ctrl + option + space` to activate selected control.
