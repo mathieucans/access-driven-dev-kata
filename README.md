@@ -35,3 +35,6 @@ order while accessing your application :
 
  - shortcut to activate voice over : `cmd + F5`
  - to interact with dialog, use `ctrl + option + arrow left/right` to navigate through controls and `ctrl + option + space` to activate selected control.
+ - to list all actions use `Ctrl + option + U`
+ - to turn on/off keyboard help `Ctrl + option + K`
+ - to turn on/off vocalisation go to VoiceOver Utility > Speech > Disable speech
