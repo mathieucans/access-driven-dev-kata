@@ -37,6 +37,8 @@ L'exercice est à destination des développeurs et testeurs. Nous utiliserons te
 
 Pitch moins de 1000 charactères :
 
+♿️ Access Driven Development Kata
+
 Venez découvrir comment écrire des tests qui décrivent le comportement de l'application du point de vue de 
 l'utilisateur et qui nous aident à améliorer l'accessibilité !
 
@@ -46,7 +48,7 @@ Nous verrons comment le fait de rendre nos composants plus accessibles nous aide
 
 Ce sera l'occasion d'échanger sur les bonnes pratiques d'accessibilité.
 
-Nous travaillerons en binôme (pair programming) ou en mob programming.
+Nous travaillerons en pair oum mob programming.
 
 Le TDD met une pression sur le design logiciel : cette technique nous incite à rendre nos applications plus accessibles.
 
