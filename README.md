@@ -15,6 +15,12 @@ According to [👉🏼 testing-library recommendation](https://testing-library.c
 order while accessing your application : 
 
 1. Queries Accessible to Everyone
+   1. . ...ByRole : 
+      > This can be used to query every element that is exposed in the accessibility tree.
+      > 
+      > ... if you can't, it's possible your UI is inaccessible
+
+   2. ...ByLabelText : really good for form fields
 2. Semantic Queries HTML5 and ARIA
 3. (Test IDs) ?
 
